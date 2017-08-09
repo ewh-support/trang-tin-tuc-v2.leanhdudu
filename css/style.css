@@ -4,6 +4,11 @@ nav ul>li a {
     font-family: "Noto Serif";
 }
 
-.post-text {
+.flownews-content-no-padding .flownews-container {
     padding: 0 56px;
+}
+
+.flownews-sidebar-right,
+.flownews-posts-content-wrap {
+    margin-top: 30px;
 }
